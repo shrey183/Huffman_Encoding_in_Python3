@@ -1,1 +1,1 @@
-# Huffman_Encoding_in_Python3
+Implementation of Huffman Encoding in Python3. The random_text.txt file can be used as an example to see how the text looks like after it is encoded. There is also a method for decoding the encoded text. 
